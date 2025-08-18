@@ -1,24 +1,24 @@
 ## Repository name
-Your repostiory should be named something like `async-final-project-color-name`
+Your repostiory should be named something like 'async-final-project-pruple-Abdulrahman'
 Example: `async-final-project-teal-Anas`
 # Test
 
 ## Dataset
-[Dataset Name](https://www.example.com/link-to-dataset)
+[Eclectric Vehicle Population](https://www.example.com/link-to-dataset)
 
 ## Why did I chose this dataset?
 
-[Placeholder for answer]
+The reason I chose this dataset was because of my intrest in Electrical vehicles and how well they are spreading at the moment. I wanted to compare and contrast different electric cars to see the difference and how fast and suitable they are, as I wish to purchase an electric can in the future for myself.
 
 ## Progress
-- [ ] Picked dataset
+- [+ ] Picked dataset
 - [ ] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
+- [ ] Question 1: How many electric vehicles are registered each year?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
