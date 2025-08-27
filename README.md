@@ -19,41 +19,46 @@ The reason I chose this dataset was because of my intrest in Electrical vehicles
 
 ## Questions
 - [ ] Question 1: How many electric vehicles are registered each year?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+  - Answer: Electric vehcile registerations have grown rapidly sicne around 2015
+  - Visualization: 
+  ![alt text](image-1.png)
 
-- [ ] Question 2: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+- [ ] Question 2: Which electric vehicle brand are the most popular? 
+  - Answer: Number #1 is Tesla
+  - Visualization:
+  ![alt text](image.png)
 
-- [ ] Question 3: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+- [ ] Question 3: Whcih citites have the most electric vehciles?
+  - Answer: The city with the highest electric vehciles is Seattle
+  - Visualization: 
+  ![alt text](image-2.png)
 
-- [ ] Question 4: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+- [ ] Question 4: Which counties have the most electric vehicles?
+  - Answer: The top 3 are: King county, Snohomish county, Pierce county
+  - Visualization: ![alt text](image-3.png)
 
-- [ ] Question 5: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+- [ ] Question 5: Are most electric vehicles battery only (BEV) or plug in hybrids (PHEV)?
+  - Answer: 
+  - Visualization: Most Electric Vehicles are battery only (BEV) but there are a few that are plug in hybrids
+  ![alt text](image-5.png)
 
-- [ ] Question 6: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+- [ ] Question 6: What's the relationship between price and electric range?
+  - Answer: The standard is that higher electric range generally connects with higher MSPR. 
+  - Visualization: 
+  ![alt text](image-4.png)
 
-- [ ] Question 7: [Brief description of the task]
+- [ ] Question 7: What is the averge driving range of electric vehicles?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
 
-- [ ] Question 8: [Brief description of the task]
+- [ ] Question 8: How many EVs are eligible for clean alternative fuel vehicle?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
 
-- [ ] Question 9: [Brief description of the task]
+- [ ] Question 9: Which are the most common electric vehicle models?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
 
-- [ ] Question 10: [Brief description of the task]
+- [ ] Question 10: Which electric utility companies serve the most electric vehicles?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
