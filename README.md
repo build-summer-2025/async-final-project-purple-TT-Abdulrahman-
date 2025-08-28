@@ -48,17 +48,31 @@ The reason I chose this dataset was because of my intrest in Electrical vehicles
   ![alt text](image-4.png)
 
 - [ ] Question 7: What is the averge driving range of electric vehicles?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+  - Answer: Averge Driving Range: 44.073002 miles
+  - Visualization: 
+![alt text](image-6.png)
 
 - [ ] Question 8: How many EVs are eligible for clean alternative fuel vehicle?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+  - Answer: Number of eligible EVs: 74987
+  - Visualization: 
+  ![alt text](image-7.png)
 
 - [ ] Question 9: Which are the most common electric vehicle models?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+  - Answer: Model
+MODEL Y           51903
+MODEL 3           37334
+LEAF              13959
+MODEL S            7883
+BOLT EV            7598
+MODEL X            6660
+MUSTANG MACH-E     5472
+ID.4               5252
+WRANGLER           4706
+IONIQ 5            4682
+  - Visualization:
+  ![alt text](image-8.png)
 
 - [ ] Question 10: Which electric utility companies serve the most electric vehicles?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+  - Answer: Puget Sound Energy, Pacific Gas and Electric, and Seattle City Light are usually the top utilities serving Electric Vehicles. 
+  - Visualization: 
+  ![alt text](image-9.png)
